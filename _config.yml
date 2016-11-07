@@ -1,12 +1,10 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: Ryan Chae's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  A blog by Ryan Chae about data science, machine learning, and data visualiation.
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+url:  "http://ryanchae.com/"
+github_username:  chae1108
 
 # Build settings
 markdown: kramdown
